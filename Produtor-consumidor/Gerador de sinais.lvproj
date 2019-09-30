@@ -12,6 +12,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Data.ctl" Type="VI" URL="../Data.ctl"/>
 		<Item Name="Gerador de sinais - Produtor consumidor.vi" Type="VI" URL="../Gerador de sinais - Produtor consumidor.vi"/>
+		<Item Name="Trapezoidal Waveform.vi" Type="VI" URL="../Trapezoidal Waveform.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
