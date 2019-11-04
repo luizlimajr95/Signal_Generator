@@ -1,0 +1,32 @@
+[Files]
+Names=Projeto 2 - GeradorDeSinais - Luiz,Gerador de sinais
+RepositoryTool=Boost
+
+[Projeto 2 - GeradorDeSinais - Luiz]
+Cover1=Gerador de sinais
+Cover1Position=3155@1790
+GraphicPosition=3220@1290
+Type=WordXML
+Path=Projeto 2 - GeradorDeSinais - Luiz.docx
+AbsolutePath=C:\Users\lulima\Documents\Signal_Generator\Produtor-consumidor\Projeto 2 - GeradorDeSinais - Luiz.docx
+
+[Gerador de sinais]
+GraphicPosition=3090@2290
+Variable1Name=outputDir
+Variable1Value=C:\\Users\\lulima\\AppData\\Local\\Temp\\nirg11
+Variable2Name=recurseViValues
+Variable2Value=0
+Variable3Name=absoluteFiles
+Variable3Value=C:\\Users\\lulima\\Documents\\Signal_Generator\\Produtor-consumidor
+Variable4Name=recurseDirValues
+Variable4Value=0
+Variable5Name=files
+Variable5Value=.
+Variable6Name=defaultDirectory
+Variable6Value=..\\Produtor-consumidor
+Variable7Name=analyzeDiagrams
+Variable7Value=true
+Type=LabVIEW
+Path=..\Produtor-consumidor
+DisplayedVariable=analyzeDiagrams
+
