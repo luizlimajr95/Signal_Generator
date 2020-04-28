@@ -22,7 +22,7 @@
 			<Item Name="Informações.ctl" Type="VI" URL="../Informações.ctl"/>
 		</Item>
 		<Item Name="Gerador de sinais - Produtor consumidor.vi" Type="VI" URL="../Gerador de sinais - Produtor consumidor.vi"/>
-		<Item Name="TESTE DA MASSA.vi" Type="VI" URL="../TESTE DA MASSA.vi"/>
+		<Item Name="Teste.vi" Type="VI" URL="../Teste.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Append Waveforms.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTOps.llb/Append Waveforms.vi"/>
