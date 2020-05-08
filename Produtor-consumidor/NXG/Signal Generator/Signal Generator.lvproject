@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<SourceFile Checksum="F7D7CC29DA42E869AF8E3B723A2F638B09A51E3DF9D520FD02231E3193DF158F721969123421619B0FEB4A6EEEE1BF32F293873ADF9AA81ACD43630F13F7E6F8" xmlns="http://www.ni.com/PlatformFramework">
+<SourceFile Checksum="10F73D22BECB767A4757C4AD14F185052214AF8F234B991F49E7B47F7F27B356CEA9399482659F2E082E57B4ECCD8E51C26ABD3C7EBEFDED3838D4AEFE56155E" xmlns="http://www.ni.com/PlatformFramework">
 	<SourceModelFeatureSet>
 		<ParsableNamespace AssemblyFileVersion="7.1.0.50148" FeatureSetName="GComponentFeatureSet" Name="http://www.ni.com/GComponent.xsd" OldestCompatibleVersion="7.1.0.49152" Version="7.1.0.49152" />
 		<ParsableNamespace AssemblyFileVersion="7.1.0.50148" FeatureSetName="Common language components" Name="http://www.ni.com/MocCommon" OldestCompatibleVersion="7.1.0.49153" Version="7.1.0.49153" />
@@ -164,7 +164,7 @@
 						<SparseEnvoyManager Id="38755f261a2e4dc691076dc6c20d70b6">
 							<SparseEnvoyManagerDependencySource Id="e4862cad601f4f3a81dd892e3c4a7b5a" Target="::NullTarget::Default Component" />
 						</SparseEnvoyManager>
-						<SourceFileReference Bindings="ContentKind_{http://www.ni.com/SystemDesigner/Vi}Process.Vi,{http://www.ni.com/SystemDesigner/EnvoyManagement}ProcessBackedEnvoyServiceMetaFactory" Id="2ca903c5daa54d46b9925f0dab910fee" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Function.gvi" StoragePath="Function.gvi" />
+						<SourceFileReference Bindings="ContentKind_{http://www.ni.com/SystemDesigner/Vi}Process.Vi,{http://www.ni.com/SystemDesigner/EnvoyManagement}ProcessBackedEnvoyServiceMetaFactory" Id="2ca903c5daa54d46b9925f0dab910fee" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Gerador de Sinais.gvi" StoragePath="Gerador de Sinais.gvi" />
 					</EmbeddedDefinitionReference>
 					<EmbeddedDefinitionReference Id="3ca12beb28fa4b43ab271faeb303e422" ModelDefinitionType="RepositoryManagerDefinition" Name="vi.lib.Fpga" Reparentable="False">
 						<RepositoryManagerDefinition Location="&quot;&lt;AppDir&gt;\\Resources\\vi.lib\\Fpga&quot;" />
@@ -213,7 +213,7 @@
 						<CompilerSymbolTable Id="d45e52057416462a8eb99268643f74ae" xmlns="http://www.ni.com/PlatformFramework" />
 					</ComponentConfiguration>
 				</ComponentDefinition>
-				<SourceFileReference Id="b271c66c3fc4467ea0a60f60d7550028" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Function.gvi" StoragePath="Function.gvi" />
+				<SourceFileReference Id="b271c66c3fc4467ea0a60f60d7550028" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Gerador de Sinais.gvi" StoragePath="Gerador de Sinais.gvi" />
 			</EmbeddedDefinitionReference>
 			<EmbeddedDefinitionReference Id="6ddd1140bcb04c40b38b73e39bad93e4" ModelDefinitionType="PackageReferencesDefinition" Name="ProjectReferences">
 				<PackageReferencesDefinition>
