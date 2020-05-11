@@ -1,0 +1,630 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JobList>
+  <Job OutputType="Distribution:NiPackageInstaller">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>Distribution:NiPackageInstaller</ComponentSubtypeIdentifier>
+      <BuildId>95f0451f-b460-4e02-a258-484b16cb41fa</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>Distribution:NiPackageInstaller</ComponentSubtypeIdentifier>
+      <BuildId>95f0451f-b460-4e02-a258-484b16cb41fa</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\Gerador de Sinais</OutputPath>
+    <BuildName>Gerador de Sinais</BuildName>
+    <State>Failed</State>
+    <LastTotalTime>00:00:00</LastTotalTime>
+    <StartTime>2020-05-08T15:51:51.0275691Z</StartTime>
+    <HasChild>False</HasChild>
+    <IsStale>True</IsStale>
+    <QualifiedName></QualifiedName>
+    <HintEnvoy></HintEnvoy>
+  </Job>
+  <Job OutputType="Distribution:NiPackageInstaller">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>Distribution:NiPackageInstaller</ComponentSubtypeIdentifier>
+      <BuildId>a7edfcc4-44fc-4533-82bd-54fe6b47ca31</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>Distribution:NiPackageInstaller</ComponentSubtypeIdentifier>
+      <BuildId>a7edfcc4-44fc-4533-82bd-54fe6b47ca31</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\Gerador de Sinais</OutputPath>
+    <BuildName>Gerador de Sinais</BuildName>
+    <State>Failed</State>
+    <LastTotalTime>00:00:00</LastTotalTime>
+    <StartTime>2020-05-08T15:53:02.8467183Z</StartTime>
+    <HasChild>False</HasChild>
+    <IsStale>True</IsStale>
+    <QualifiedName></QualifiedName>
+    <HintEnvoy></HintEnvoy>
+  </Job>
+  <Job OutputType="Distribution:NiPackageInstaller">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>Distribution:NiPackageInstaller</ComponentSubtypeIdentifier>
+      <BuildId>641dfd23-ef37-4872-97cf-1542854fbf9a</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>Distribution:NiPackageInstaller</ComponentSubtypeIdentifier>
+      <BuildId>641dfd23-ef37-4872-97cf-1542854fbf9a</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\Gerador de Sinais</OutputPath>
+    <BuildName>Gerador de Sinais</BuildName>
+    <State>Failed</State>
+    <LastTotalTime>00:00:00</LastTotalTime>
+    <StartTime>2020-05-08T15:54:21.8567233Z</StartTime>
+    <HasChild>False</HasChild>
+    <IsStale>True</IsStale>
+    <QualifiedName></QualifiedName>
+    <HintEnvoy></HintEnvoy>
+  </Job>
+  <Job OutputType="Distribution:NiPackageInstaller">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>Distribution:NiPackageInstaller</ComponentSubtypeIdentifier>
+      <BuildId>44677f56-bc94-43bf-8661-fbf68df19765</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>Distribution:NiPackageInstaller</ComponentSubtypeIdentifier>
+      <BuildId>44677f56-bc94-43bf-8661-fbf68df19765</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\Gerador de Sinais</OutputPath>
+    <BuildName>Gerador de Sinais</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:40</LastTotalTime>
+    <StartTime>2020-05-08T15:54:47.9497755Z</StartTime>
+    <HasChild>True</HasChild>
+    <IsStale>True</IsStale>
+    <QualifiedName></QualifiedName>
+    <HintEnvoy>::NullTarget::Gerador de Sinais.lvdist</HintEnvoy>
+  </Job>
+  <Job OutputType="Application">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>716bdf80-2630-4809-9040-17790e929533</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>Distribution:NiPackageInstaller</ComponentSubtypeIdentifier>
+      <BuildId>44677f56-bc94-43bf-8661-fbf68df19765</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\Gerador de Sinais_This Computer\Gerador de Sinais.exe\Gerador de Sinais.exe</OutputPath>
+    <BuildName>Gerador de Sinais</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:00</LastTotalTime>
+    <StartTime>2020-05-08T15:54:48.1296713Z</StartTime>
+    <HasChild>False</HasChild>
+    <IsStale>True</IsStale>
+    <QualifiedName></QualifiedName>
+    <HintEnvoy>::DevSystem::Interactive::Gerador de Sinais.gcomp</HintEnvoy>
+  </Job>
+  <Job OutputType="Application">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>f4e28826-f068-4ea3-832f-73a73fce1431</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>f4e28826-f068-4ea3-832f-73a73fce1431</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\Gerador de Sinais_PC\Gerador de Sinais.exe\Gerador de Sinais.exe</OutputPath>
+    <BuildName>Gerador de Sinais</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:00</LastTotalTime>
+    <StartTime>2020-05-08T15:56:11.5726179Z</StartTime>
+    <HasChild>False</HasChild>
+    <IsStale>True</IsStale>
+    <QualifiedName></QualifiedName>
+    <HintEnvoy></HintEnvoy>
+  </Job>
+  <Job OutputType="Application">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>eacaa3af-72cd-4773-8907-f19d2cabec06</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>eacaa3af-72cd-4773-8907-f19d2cabec06</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\Gerador de Sinais_PC\Gerador de Sinais.exe\Gerador de Sinais.exe</OutputPath>
+    <BuildName>Gerador de Sinais</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:00</LastTotalTime>
+    <StartTime>2020-05-08T15:56:23.3111158Z</StartTime>
+    <HasChild>False</HasChild>
+    <IsStale>True</IsStale>
+    <QualifiedName></QualifiedName>
+    <HintEnvoy></HintEnvoy>
+  </Job>
+  <Job OutputType="Application">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>ecfe77f0-b103-4913-947e-b8b94ab6cf61</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>ecfe77f0-b103-4913-947e-b8b94ab6cf61</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\Gerador de Sinais_PC\Gerador de Sinais.exe\Gerador de Sinais.exe</OutputPath>
+    <BuildName>Gerador de Sinais</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:00</LastTotalTime>
+    <StartTime>2020-05-08T15:59:05.4234415Z</StartTime>
+    <HasChild>False</HasChild>
+    <IsStale>True</IsStale>
+    <QualifiedName></QualifiedName>
+    <HintEnvoy></HintEnvoy>
+  </Job>
+  <Job OutputType="Application">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>6ce62854-90dc-47e0-b1fd-260e096effa0</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>6ce62854-90dc-47e0-b1fd-260e096effa0</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\Gerador de Sinais_PC\Gerador de Sinais.exe\Gerador de Sinais.exe</OutputPath>
+    <BuildName>Gerador de Sinais</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:01</LastTotalTime>
+    <StartTime>2020-05-08T18:25:22.2239710Z</StartTime>
+    <HasChild>False</HasChild>
+    <IsStale>True</IsStale>
+    <QualifiedName></QualifiedName>
+    <HintEnvoy></HintEnvoy>
+  </Job>
+  <Job OutputType="Application">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>bd43e760-a6ce-4f66-a211-55a5acab0704</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>bd43e760-a6ce-4f66-a211-55a5acab0704</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\Gerador de Sinais_PC\Gerador de Sinais.exe\Gerador de Sinais.exe</OutputPath>
+    <BuildName>Gerador de Sinais</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:00</LastTotalTime>
+    <StartTime>2020-05-08T18:25:26.4421292Z</StartTime>
+    <HasChild>False</HasChild>
+    <IsStale>True</IsStale>
+    <QualifiedName></QualifiedName>
+    <HintEnvoy></HintEnvoy>
+  </Job>
+  <Job OutputType="Application">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>47260a56-7fbb-45df-a35f-f42d13d4d5a0</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>47260a56-7fbb-45df-a35f-f42d13d4d5a0</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\Gerador de Sinais_PC\Gerador de Sinais.exe\Gerador de Sinais.exe</OutputPath>
+    <BuildName>Gerador de Sinais</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:00</LastTotalTime>
+    <StartTime>2020-05-08T19:07:48.0621092Z</StartTime>
+    <HasChild>False</HasChild>
+    <IsStale>True</IsStale>
+    <QualifiedName></QualifiedName>
+    <HintEnvoy></HintEnvoy>
+  </Job>
+  <Job OutputType="Application">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>6d0bffad-aec0-4247-b630-b7756d6290f4</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>6d0bffad-aec0-4247-b630-b7756d6290f4</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\Gerador de Sinais_PC\Gerador de Sinais.exe\Gerador de Sinais.exe</OutputPath>
+    <BuildName>Gerador de Sinais</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:00</LastTotalTime>
+    <StartTime>2020-05-08T19:07:57.5148540Z</StartTime>
+    <HasChild>False</HasChild>
+    <IsStale>True</IsStale>
+    <QualifiedName></QualifiedName>
+    <HintEnvoy></HintEnvoy>
+  </Job>
+  <Job OutputType="Application">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>e0d5f0ae-f889-408a-83db-6cebc75b7ff5</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>e0d5f0ae-f889-408a-83db-6cebc75b7ff5</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\Gerador de Sinais_PC\Gerador de Sinais.exe\Gerador de Sinais.exe</OutputPath>
+    <BuildName>Gerador de Sinais</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:00</LastTotalTime>
+    <StartTime>2020-05-08T20:05:29.6630268Z</StartTime>
+    <HasChild>False</HasChild>
+    <IsStale>True</IsStale>
+    <QualifiedName></QualifiedName>
+    <HintEnvoy></HintEnvoy>
+  </Job>
+  <Job OutputType="Application">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>fb6e6b01-5f67-476b-954c-d576f6c535a3</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>fb6e6b01-5f67-476b-954c-d576f6c535a3</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\Gerador de Sinais_PC\Gerador de Sinais.exe\Gerador de Sinais.exe</OutputPath>
+    <BuildName>Gerador de Sinais</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:00</LastTotalTime>
+    <StartTime>2020-05-08T20:05:34.0681355Z</StartTime>
+    <HasChild>False</HasChild>
+    <IsStale>True</IsStale>
+    <QualifiedName></QualifiedName>
+    <HintEnvoy></HintEnvoy>
+  </Job>
+  <Job OutputType="Application">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>199e78b9-2421-4e14-a4d2-83097a5fdc2e</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>199e78b9-2421-4e14-a4d2-83097a5fdc2e</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\Gerador de Sinais_PC\Gerador de Sinais.exe\Gerador de Sinais.exe</OutputPath>
+    <BuildName>Gerador de Sinais</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:00</LastTotalTime>
+    <StartTime>2020-05-08T20:05:37.8551721Z</StartTime>
+    <HasChild>False</HasChild>
+    <IsStale>True</IsStale>
+    <QualifiedName></QualifiedName>
+    <HintEnvoy></HintEnvoy>
+  </Job>
+  <Job OutputType="Application">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>70cba20a-0d8c-4788-9768-f301d2245751</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>70cba20a-0d8c-4788-9768-f301d2245751</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\Gerador de Sinais_PC\Gerador de Sinais.exe\Gerador de Sinais.exe</OutputPath>
+    <BuildName>Gerador de Sinais</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:00</LastTotalTime>
+    <StartTime>2020-05-08T20:14:14.5269000Z</StartTime>
+    <HasChild>False</HasChild>
+    <IsStale>True</IsStale>
+    <QualifiedName></QualifiedName>
+    <HintEnvoy></HintEnvoy>
+  </Job>
+  <Job OutputType="Application">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>f3374388-9b65-4eb6-982d-cb1d2b3c65a7</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>f3374388-9b65-4eb6-982d-cb1d2b3c65a7</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\Gerador de Sinais_PC\Gerador de Sinais.exe\Gerador de Sinais.exe</OutputPath>
+    <BuildName>Gerador de Sinais</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:00</LastTotalTime>
+    <StartTime>2020-05-08T20:14:16.8705494Z</StartTime>
+    <HasChild>False</HasChild>
+    <IsStale>True</IsStale>
+    <QualifiedName></QualifiedName>
+    <HintEnvoy></HintEnvoy>
+  </Job>
+  <Job OutputType="Application">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>416043e0-1c2e-49b6-8780-0a95418804f3</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>416043e0-1c2e-49b6-8780-0a95418804f3</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\Gerador de Sinais_PC\Gerador de Sinais.exe\Gerador de Sinais.exe</OutputPath>
+    <BuildName>Gerador de Sinais</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:00</LastTotalTime>
+    <StartTime>2020-05-08T20:22:18.0623517Z</StartTime>
+    <HasChild>False</HasChild>
+    <IsStale>True</IsStale>
+    <QualifiedName></QualifiedName>
+    <HintEnvoy></HintEnvoy>
+  </Job>
+  <Job OutputType="Application">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>fde053ec-e9e5-4c74-a769-7b6c0f1375a4</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>fde053ec-e9e5-4c74-a769-7b6c0f1375a4</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\Gerador de Sinais_PC\Gerador de Sinais.exe\Gerador de Sinais.exe</OutputPath>
+    <BuildName>Gerador de Sinais</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:00</LastTotalTime>
+    <StartTime>2020-05-08T20:22:19.8688312Z</StartTime>
+    <HasChild>False</HasChild>
+    <IsStale>True</IsStale>
+    <QualifiedName></QualifiedName>
+    <HintEnvoy></HintEnvoy>
+  </Job>
+  <Job OutputType="Application">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>6547964f-f8e3-42e6-a041-70186a5deec3</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>6547964f-f8e3-42e6-a041-70186a5deec3</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\Gerador de Sinais_PC\Gerador de Sinais.exe\Gerador de Sinais.exe</OutputPath>
+    <BuildName>Gerador de Sinais</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:00</LastTotalTime>
+    <StartTime>2020-05-11T18:39:22.7684966Z</StartTime>
+    <HasChild>False</HasChild>
+    <IsStale>True</IsStale>
+    <QualifiedName></QualifiedName>
+    <HintEnvoy></HintEnvoy>
+  </Job>
+  <Job OutputType="Application">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>73be013c-cb34-4d1c-bb5e-c82d3241bde7</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>73be013c-cb34-4d1c-bb5e-c82d3241bde7</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\Gerador de Sinais_PC\Gerador de Sinais.exe\Gerador de Sinais.exe</OutputPath>
+    <BuildName>Gerador de Sinais</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:00</LastTotalTime>
+    <StartTime>2020-05-11T18:57:46.9037437Z</StartTime>
+    <HasChild>False</HasChild>
+    <IsStale>True</IsStale>
+    <QualifiedName></QualifiedName>
+    <HintEnvoy></HintEnvoy>
+  </Job>
+  <Job OutputType="Application">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>f07b1a3a-306b-44fc-b685-7ca756539345</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>f07b1a3a-306b-44fc-b685-7ca756539345</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\Gerador de Sinais_PC\Gerador de Sinais.exe\Gerador de Sinais.exe</OutputPath>
+    <BuildName>Gerador de Sinais</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:00</LastTotalTime>
+    <StartTime>2020-05-11T18:57:49.7311246Z</StartTime>
+    <HasChild>False</HasChild>
+    <IsStale>True</IsStale>
+    <QualifiedName></QualifiedName>
+    <HintEnvoy></HintEnvoy>
+  </Job>
+  <Job OutputType="Application">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>ac59ed3a-b218-4a16-8040-156137e7255c</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>ac59ed3a-b218-4a16-8040-156137e7255c</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\Gerador de Sinais_PC\Gerador de Sinais.exe\Gerador de Sinais.exe</OutputPath>
+    <BuildName>Gerador de Sinais</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:00</LastTotalTime>
+    <StartTime>2020-05-11T18:58:46.7025031Z</StartTime>
+    <HasChild>False</HasChild>
+    <IsStale>True</IsStale>
+    <QualifiedName></QualifiedName>
+    <HintEnvoy></HintEnvoy>
+  </Job>
+  <Job OutputType="Application">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>06f493ee-d0f8-40fd-842b-83e955c30241</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>06f493ee-d0f8-40fd-842b-83e955c30241</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\Gerador de Sinais_PC\Gerador de Sinais.exe\Gerador de Sinais.exe</OutputPath>
+    <BuildName>Gerador de Sinais</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:00</LastTotalTime>
+    <StartTime>2020-05-11T20:27:05.8702353Z</StartTime>
+    <HasChild>False</HasChild>
+    <IsStale>True</IsStale>
+    <QualifiedName></QualifiedName>
+    <HintEnvoy></HintEnvoy>
+  </Job>
+  <Job OutputType="Application">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>178e37d1-e2b2-4348-a70d-4439f8a8620e</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>178e37d1-e2b2-4348-a70d-4439f8a8620e</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\Gerador de Sinais_PC\Gerador de Sinais.exe\Gerador de Sinais.exe</OutputPath>
+    <BuildName>Gerador de Sinais</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:00</LastTotalTime>
+    <StartTime>2020-05-11T20:27:08.5487017Z</StartTime>
+    <HasChild>False</HasChild>
+    <IsStale>True</IsStale>
+    <QualifiedName></QualifiedName>
+    <HintEnvoy></HintEnvoy>
+  </Job>
+  <Job OutputType="Application">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>8c946612-b74a-448c-9da9-043069827e82</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>8c946612-b74a-448c-9da9-043069827e82</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\Gerador de Sinais_PC\Gerador de Sinais.exe\Gerador de Sinais.exe</OutputPath>
+    <BuildName>Gerador de Sinais</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:00</LastTotalTime>
+    <StartTime>2020-05-11T20:32:46.0614715Z</StartTime>
+    <HasChild>False</HasChild>
+    <IsStale>True</IsStale>
+    <QualifiedName></QualifiedName>
+    <HintEnvoy></HintEnvoy>
+  </Job>
+  <Job OutputType="Application">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>c750297d-fec2-49f9-9eb1-f8ae1f737fb7</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>c750297d-fec2-49f9-9eb1-f8ae1f737fb7</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\Gerador de Sinais_PC\Gerador de Sinais.exe\Gerador de Sinais.exe</OutputPath>
+    <BuildName>Gerador de Sinais</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:00</LastTotalTime>
+    <StartTime>2020-05-11T20:32:54.1958145Z</StartTime>
+    <HasChild>False</HasChild>
+    <IsStale>True</IsStale>
+    <QualifiedName></QualifiedName>
+    <HintEnvoy></HintEnvoy>
+  </Job>
+  <Job OutputType="Application">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>55019c25-423f-46a8-ab6e-09b15b528956</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>55019c25-423f-46a8-ab6e-09b15b528956</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\Gerador de Sinais_PC\Gerador de Sinais.exe\Gerador de Sinais.exe</OutputPath>
+    <BuildName>Gerador de Sinais</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:00</LastTotalTime>
+    <StartTime>2020-05-11T20:37:40.7954003Z</StartTime>
+    <HasChild>False</HasChild>
+    <IsStale>True</IsStale>
+    <QualifiedName></QualifiedName>
+    <HintEnvoy></HintEnvoy>
+  </Job>
+  <Job OutputType="Application">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>bcbec82c-6350-4a91-ae58-c18dafbdc872</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>bcbec82c-6350-4a91-ae58-c18dafbdc872</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\Gerador de Sinais_PC\Gerador de Sinais.exe\Gerador de Sinais.exe</OutputPath>
+    <BuildName>Gerador de Sinais</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:00</LastTotalTime>
+    <StartTime>2020-05-11T20:43:07.0645715Z</StartTime>
+    <HasChild>False</HasChild>
+    <IsStale>True</IsStale>
+    <QualifiedName></QualifiedName>
+    <HintEnvoy></HintEnvoy>
+  </Job>
+  <Job OutputType="Application">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>2b3402e0-0c0d-4acc-bae5-a1a8010c0f28</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>2b3402e0-0c0d-4acc-bae5-a1a8010c0f28</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\Gerador de Sinais_PC\Gerador de Sinais.exe\Gerador de Sinais.exe</OutputPath>
+    <BuildName>Gerador de Sinais</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:00</LastTotalTime>
+    <StartTime>2020-05-11T20:44:29.6860515Z</StartTime>
+    <HasChild>False</HasChild>
+    <IsStale>True</IsStale>
+    <QualifiedName></QualifiedName>
+    <HintEnvoy>::PC::Interactive::Gerador de Sinais.gcomp</HintEnvoy>
+  </Job>
+  <Job OutputType="Distribution:NiPackageInstaller">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>Distribution:NiPackageInstaller</ComponentSubtypeIdentifier>
+      <BuildId>76cc4308-d1c5-48ed-8cac-9b98f3c46780</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>Distribution:NiPackageInstaller</ComponentSubtypeIdentifier>
+      <BuildId>76cc4308-d1c5-48ed-8cac-9b98f3c46780</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\Gerador de Sinais</OutputPath>
+    <BuildName>Gerador de Sinais</BuildName>
+    <State>Failed</State>
+    <LastTotalTime>00:00:00</LastTotalTime>
+    <StartTime>2020-05-11T20:54:22.8194393Z</StartTime>
+    <HasChild>False</HasChild>
+    <IsStale>True</IsStale>
+    <QualifiedName></QualifiedName>
+    <HintEnvoy>::NullTarget::Gerador de Sinais.lvdist</HintEnvoy>
+  </Job>
+  <Job OutputType="Distribution:NiPackageInstaller">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>Distribution:NiPackageInstaller</ComponentSubtypeIdentifier>
+      <BuildId>12d3727e-a8e4-4d5f-9dd9-c5a40e9f27af</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>Distribution:NiPackageInstaller</ComponentSubtypeIdentifier>
+      <BuildId>12d3727e-a8e4-4d5f-9dd9-c5a40e9f27af</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\Gerador de Sinais</OutputPath>
+    <BuildName>Gerador de Sinais</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:30</LastTotalTime>
+    <StartTime>2020-05-11T20:55:25.8863491Z</StartTime>
+    <HasChild>True</HasChild>
+    <IsStale>False</IsStale>
+    <QualifiedName>::NullTarget::Gerador de Sinais.lvdist</QualifiedName>
+    <HintEnvoy>::NullTarget::Gerador de Sinais.lvdist</HintEnvoy>
+  </Job>
+  <Job OutputType="Application">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>Application</ComponentSubtypeIdentifier>
+      <BuildId>74ce6797-2ce4-430e-9db8-8cd8242e0f12</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>Distribution:NiPackageInstaller</ComponentSubtypeIdentifier>
+      <BuildId>12d3727e-a8e4-4d5f-9dd9-c5a40e9f27af</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\Gerador de Sinais_PC\Gerador de Sinais.exe\Gerador de Sinais.exe</OutputPath>
+    <BuildName>Gerador de Sinais</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:00</LastTotalTime>
+    <StartTime>2020-05-11T20:55:25.9782794Z</StartTime>
+    <HasChild>False</HasChild>
+    <IsStale>False</IsStale>
+    <QualifiedName>::PC::Interactive::Gerador de Sinais.gcomp</QualifiedName>
+    <HintEnvoy>::PC::Interactive::Gerador de Sinais.gcomp</HintEnvoy>
+  </Job>
+</JobList>

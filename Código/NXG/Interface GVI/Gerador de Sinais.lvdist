@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SourceFile Checksum="8B5EC5D10E0C3480EC866B3DCAD9E8A3A93AB7CCEA5086D6E26D94D63971FF436D2C44EDB028BED31A719536C2706236379C6A6F68F5DC2FC823419BEC6E7ED1" Timestamp="1D627D6580FD705" xmlns="http://www.ni.com/PlatformFramework">
+	<SourceModelFeatureSet>
+		<ParsableNamespace AssemblyFileVersion="7.1.0.50148" FeatureSetName="GComponentFeatureSet" Name="http://www.ni.com/GComponent.xsd" OldestCompatibleVersion="7.1.0.49152" Version="7.1.0.49152" />
+		<ParsableNamespace AssemblyFileVersion="7.1.0.50148" FeatureSetName="Editor" Name="http://www.ni.com/PlatformFramework" OldestCompatibleVersion="7.1.0.49153" Version="7.1.0.49153" />
+		<ApplicationVersionInfo Build="7.1.0.50148" Name="LabVIEW NXG" Version="4.0.0" />
+	</SourceModelFeatureSet>
+	<DistributionDefinition AutoIncrementOnBuild="False" Company="National Instruments Brasil" Product="Gerador de Sinais" ShortDescription="National Instruments Brazil Intership project. Based on a signal generator device." TargetedProduct="LabVIEW" xmlns="http://www.ni.com/GComponent.xsd">
+		<DistributionDependencyContent DisplayName="ni-certificates" Id="cb60a706d9a543d199eb1597876dacbd" Included="False" Name="ni-certificates" RequirementType="Recommended" VersionRequirement="None" />
+		<DistributionOutput CachedDisplayName="Package Installer" Id="2a1fd1e3454b4a818f82710cb525787e" p3:CustomNipmPackageName="gerador.de.sinais-national.instruments.brasil" p3:DistributionCategory="Application" p3:MaintainerEmail="luiz.lima@ni.com" p3:MaintainerName="National Instruments Brasil" p3:PackageDisplayName="Gerador de Sinais" xmlns:p3="http://www.ni.com/GComponent.xsd" />
+		<DistributionBuildTarget Id="74d25d09a4874b9ba93def1407c7bbd8" Target="::PC" />
+		<DistributionMemberDependencySource Id="71276e3fec2142cf807fd62f1e163997" MemberContentType="{http://www.ni.com/GComponent.xsd}Component_Rebuild" RootLocation="ApplicationFiles_64" Target="::PC::Interactive::Gerador de Sinais.gcomp" />
+		<DistributionDependencyContent DisplayName="Measurement Studio Common Runtime for .NET Framework 4.0" Id="ca2b43e967a040349f356f886b86ff90" Included="False" MaintainerName="National Instruments" Name="ni-mstudio-common-fx40-19.0.0-runtime" Version="19.0.0.49152-0+f0" />
+		<DistributionDependencyContent DisplayName="Measurement Studio Analysis Runtime 17.0 for .NET Framework 4.5" Id="b70be7e2686346e19d2661071b60a68e" Included="False" MaintainerName="National Instruments" Name="ni-mstudio-analysis-fx45-runtime" Version="17.0.0.49153-0+f1" />
+		<DistributionDependencyContent DisplayName="LabVIEW NXG Run-Time Engine" Id="c5c50cc1355f4304a6eae06d982efa1b" Included="False" MaintainerName="National Instruments" Name="ni-labview-nxg-4.0.0-rte" Version="7.1.0.49153-0+f1" />
+	</DistributionDefinition>
+</SourceFile>
