@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<SourceFile Checksum="E55A52BF529CB03A2C932BDE040C7D8CF96D49E0C09535FA34B7EFF51D1879E4C869B5E921E580AD54D58836004F6AC1AA90E00D46353187975AD9C826132DC5" Timestamp="1D6255036655069" xmlns="http://www.ni.com/PlatformFramework">
+<SourceFile Checksum="E3D521F724FE7C5DD28CC65584F1E90FC9F468D452413431848716810350D0DBA12FFE16398E79F6F6D32D14FAF01A0AFFB0437C0C749BD6A64BDD19E059FE8D" Timestamp="1D62A25F32E646A" xmlns="http://www.ni.com/PlatformFramework">
 	<SourceModelFeatureSet>
 		<ParsableNamespace AssemblyFileVersion="7.1.0.50148" FeatureSetName="GComponentFeatureSet" Name="http://www.ni.com/GComponent.xsd" OldestCompatibleVersion="7.1.0.49152" Version="7.1.0.49152" />
 		<ParsableNamespace AssemblyFileVersion="7.1.0.50148" FeatureSetName="Native target compiler" Name="http://www.ni.com/LabVIEW.NativeBackEndCompiler" OldestCompatibleVersion="4.5.0.0" Version="4.5.0.49152" />
@@ -7,7 +7,7 @@
 		<ParsableNamespace AssemblyFileVersion="7.1.0.50148" FeatureSetName="SystemDesigner" Name="http://www.ni.com/SystemDesigner/EnvoyManagement" OldestCompatibleVersion="5.0.0.0" Version="5.0.0.49152" />
 		<ApplicationVersionInfo Build="7.1.0.50148" Name="LabVIEW NXG" Version="4.0.0" />
 	</SourceModelFeatureSet>
-	<ComponentDefinition DefaultConfigurationName="Configuration1" Id="4912dae2fc354120a51db4d48f6d65e3" RootNamespaceId="2d17fcca945a46079b379cf750b7a591" xmlns="http://www.ni.com/GComponent.xsd">
+	<ComponentDefinition Company="National Instruments Brasil" DefaultConfigurationName="Configuration1" Description="Gerador de sinais desenvolvido durante o programa de estágio na National Instruments Brasil. Estagiário desenvolvedor Luiz Lima." Id="4912dae2fc354120a51db4d48f6d65e3" Product="Gerador de Sinais" RootNamespaceId="2d17fcca945a46079b379cf750b7a591" UserVersion="1.0.0.0" xmlns="http://www.ni.com/GComponent.xsd">
 		<Icon Id="fccb53425f0b42968068f865c60e8038" ListViewIconCrop="0 0 40 40" xmlns="http://www.ni.com/PlatformFramework">
 			<IconPanel Height="[float]40" Id="3b241f87f3ab4282a510a55044d36930" Left="[float]0" PanelSizeMode="Resize" Top="[float]0" Width="[float]40">
 				<IconTemplate Height="[float]40" Id="ae5179ab0d84fe692ac959197760c13" Left="[float]0" TemplateName="[string]Blank" Top="[float]0" Width="[float]40" />
