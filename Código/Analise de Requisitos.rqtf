@@ -1,32 +1,31 @@
 [Files]
-Names=Projeto 2 - GeradorDeSinais - Luiz,Gerador de sinais
+Names=Projeto gerador de sinais,Requisitos
 RepositoryTool=Boost
 
-[Projeto 2 - GeradorDeSinais - Luiz]
-Cover1=Gerador de sinais
-Cover1Position=3155@1790
-GraphicPosition=3220@1290
-Type=WordXML
-Path=Projeto 2 - GeradorDeSinais - Luiz.docx
-AbsolutePath=C:\Users\lulima\Documents\Signal_Generator\Produtor-consumidor\Projeto 2 - GeradorDeSinais - Luiz.docx
-
-[Gerador de sinais]
-GraphicPosition=3090@2290
-Variable1Name=outputDir
-Variable1Value=C:\\Users\\lulima\\AppData\\Local\\Temp\\nirg11
-Variable2Name=recurseViValues
-Variable2Value=0
-Variable3Name=absoluteFiles
-Variable3Value=C:\\Users\\lulima\\Documents\\Signal_Generator\\Produtor-consumidor
-Variable4Name=recurseDirValues
-Variable4Value=0
-Variable5Name=files
-Variable5Value=.
-Variable6Name=defaultDirectory
-Variable6Value=..\\Produtor-consumidor
-Variable7Name=analyzeDiagrams
-Variable7Value=true
+[Projeto gerador de sinais]
+GraphicPosition=5410@2260
+Variable1Name=recurseViValues
+Variable1Value=0
+Variable2Name=absoluteFiles
+Variable2Value=C:\\Users\\lulima\\Documents\\Signal_Generator\\Código\\Projeto Gerador de sinais.lvproj
+Variable3Name=recurseDirValues
+Variable3Value=0
+Variable4Name=files
+Variable4Value=Projeto Gerador de sinais.lvproj
+Variable5Name=defaultDirectory
+Variable5Value=..\\Código
+Variable6Name=analyzeDiagrams
+Variable6Value=true
 Type=LabVIEW
-Path=..\Produtor-consumidor
-DisplayedVariable=analyzeDiagrams
+Path=Projeto Gerador de sinais.lvproj
+
+[Requisitos]
+Cover1=Projeto gerador de sinais
+Cover1Position=5355@1920
+GraphicPosition=5300@1580
+Variable1Name=analyzeDiagrams
+Variable1Value=true
+Type=WordXML
+Path=..\Modelagem e planejamento\Projeto 2 - GeradorDeSinais - Luiz.docx
+AbsolutePath=C:\Users\lulima\Documents\Signal_Generator\Modelagem e planejamento\Projeto 2 - GeradorDeSinais - Luiz.docx
 
