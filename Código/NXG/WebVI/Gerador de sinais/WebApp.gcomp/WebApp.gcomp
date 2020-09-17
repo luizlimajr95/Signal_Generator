@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<SourceFile Checksum="CC57F29EA0E25F9928280ED546DD2645F423810B9E4227A020396EA91BA3B9782D2AFA807890B3428D28570594F03A56BC0CC3958EB35B453AC5D6DCC5E6C192" Timestamp="1D65140E396BFB5" xmlns="http://www.ni.com/PlatformFramework">
+<SourceFile Checksum="46159EC533341CA3BB228F07BB9CBDABABD8089DE5FF17DACA4BF44CC5BE22660F43967FE02C336B70C3E84F045418156A60F44ADAE2D950D3F3B9AE66D72557" Timestamp="1D68D389EDC7FAA" xmlns="http://www.ni.com/PlatformFramework">
 	<SourceModelFeatureSet>
 		<ParsableNamespace AssemblyFileVersion="8.1.0.50414" FeatureSetName="GComponentFeatureSet" Name="http://www.ni.com/GComponent.xsd" OldestCompatibleVersion="8.1.0.49152" Version="8.1.0.49152" />
 		<ParsableNamespace AssemblyFileVersion="8.1.0.50414" FeatureSetName="Web Module: WebVI" Name="http://www.ni.com/NationalInstruments.LabVIEW.HtmlVI" OldestCompatibleVersion="8.1.0.49152" Version="8.1.0.49152" />
 		<ParsableNamespace AssemblyFileVersion="8.1.0.50414" FeatureSetName="Editor" Name="http://www.ni.com/PlatformFramework" OldestCompatibleVersion="8.1.0.49152" Version="8.1.0.49152" />
 		<ApplicationVersionInfo Build="8.1.0.50414" Name="LabVIEW NXG" Version="5.0.0" />
 	</SourceModelFeatureSet>
-	<ComponentDefinition AutoIncrementOnBuild="True" Company="NI Brasil" DefaultConfigurationName="Configuration1" Description="Projeto de Gerador de sinais do programa de estágio." Id="1" Product="Gerador de Sinai" RootNamespaceId="14" UserVersion="1.0.0.26" xmlns="http://www.ni.com/GComponent.xsd">
+	<ComponentDefinition AutoIncrementOnBuild="True" Company="NI Brasil" DefaultConfigurationName="Configuration1" Description="Projeto de Gerador de sinais do programa de estágio." Id="1" Product="Gerador de Sinai" RootNamespaceId="14" UserVersion="1.0.0.29" xmlns="http://www.ni.com/GComponent.xsd">
 		<Icon Id="2" ListViewIconCrop="0 0 40 40" xmlns="http://www.ni.com/PlatformFramework">
 			<IconPanel Height="[float]40" Id="3" Left="[float]0" MinHeight="[float]0" MinWidth="[float]0" PanelSizeMode="Resize" Top="[float]0" Width="[float]40">
 				<IconTemplate Height="[float]40" Id="4" Left="[float]0" TemplateName="[string]Blank" Top="[float]0" Width="[float]40" />
@@ -17,6 +17,7 @@
 			<CompilerSymbolTable Id="11" xmlns="http://www.ni.com/PlatformFramework" />
 			<WebApplicationOutputTypeProperties Id="12" xmlns="http://www.ni.com/NationalInstruments.LabVIEW.HtmlVI" />
 			<ComponentItemProperties AssociatedEnvoyId="15" Id="16" TopLevel="True" />
+			<ComponentItemProperties AlwaysInclude="True" AssociatedEnvoyId="eca2d585d9c047c985226c2ca696074a" Id="8ca039671ed54d2b9d3b7c45a1692389" />
 		</ComponentConfiguration>
 	</ComponentDefinition>
 	<EnvoyManagerFile Id="6" xmlns="http://www.ni.com/PlatformFramework">
@@ -25,6 +26,9 @@
 			<ComponentDefinitionEnvoyHierarchyRoot xmlns="http://www.ni.com/GComponent.xsd" />
 			<NameScopingEnvoy AutomaticallyResolveUp="True" Id="14" Name="WebApp">
 				<SourceFileReference Id="15" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Gerador de sinais.gviweb" OverridingModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.HTMLVirtualInstrument" StoragePath="Gerador de sinais.gviweb" />
+				<NameScopingEnvoy AutomaticallyResolveUp="True" Id="8b2010c866214fae8f62a197f394ce2a" Name="img">
+					<FileReference Bindings=".png" Id="eca2d585d9c047c985226c2ca696074a" ModelDefinitionType="{http://www.ni.com/PlatformFramework}ExternalFile" Name="NI_Teams_background_V1.png" StoragePath="img\NI_Teams_background_V1.png" />
+				</NameScopingEnvoy>
 			</NameScopingEnvoy>
 		</EmbeddedDefinitionReference>
 		<NameScopingEnvoy Id="9" Name="WebApp.gcomp" NameTracksFileName="True">

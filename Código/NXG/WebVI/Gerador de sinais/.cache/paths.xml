@@ -1583,4 +1583,84 @@
 			<string>ni-xnet-xnet-src-20.0.0_2.niaddoncache</string>
 		</value>
 	</item>
+	<item>
+		<key>
+			<string>NI.HTTP_eb6fbac1b1aa40d0a93be65147009719_a659c214c36d43558983f2e2518f9e6e.gcompcache</string>
+		</key>
+		<value>
+			<string>NI.HTTP.gcompcache</string>
+		</value>
+	</item>
+	<item>
+		<key>
+			<string>NI.G Core_5410850e559a427b9db7aaa900d640c7_48a74df3eec24094b70d4d9a4f4037a4.gcompcache</string>
+		</key>
+		<value>
+			<string>NI.G Core.gcompcache</string>
+		</value>
+	</item>
+	<item>
+		<key>
+			<string>Error_78745185e3294de397e9b4b977f08ad4_5410850e559a427b9db7aaa900d640c7_48a74df3eec24094b70d4d9a4f4037a4.gtypecache</string>
+		</key>
+		<value>
+			<string>Error.gtypecache</string>
+		</value>
+	</item>
+	<item>
+		<key>
+			<string>httpClient_27_eb6fbac1b1aa40d0a93be65147009719_a659c214c36d43558983f2e2518f9e6e.slicache</string>
+		</key>
+		<value>
+			<string>httpClient.slicache</string>
+		</value>
+	</item>
+	<item>
+		<key>
+			<string>httpWebServerClient_43_eb6fbac1b1aa40d0a93be65147009719_a659c214c36d43558983f2e2518f9e6e.slicache</string>
+		</key>
+		<value>
+			<string>httpWebServerClient.slicache</string>
+		</value>
+	</item>
+	<item>
+		<key>
+			<string>Client Handle_23_eb6fbac1b1aa40d0a93be65147009719_a659c214c36d43558983f2e2518f9e6e.gtypecache</string>
+		</key>
+		<value>
+			<string>Client Handle.gtypecache</string>
+		</value>
+	</item>
+	<item>
+		<key>
+			<string>error protocol_69e533219fcf4d3aaa9022ebe114363d_5410850e559a427b9db7aaa900d640c7_48a74df3eec24094b70d4d9a4f4037a4.gtypecache</string>
+		</key>
+		<value>
+			<string>error protocol.gtypecache</string>
+		</value>
+	</item>
+	<item>
+		<key>
+			<string>JSON (call chain)_f77d9d0b415c44a9914b0bbd84aa0d89_5410850e559a427b9db7aaa900d640c7_48a74df3eec24094b70d4d9a4f4037a4.gtypecache</string>
+		</key>
+		<value>
+			<string>JSON (call chain).gtypecache</string>
+		</value>
+	</item>
+	<item>
+		<key>
+			<string>Occurrence_42_eb6fbac1b1aa40d0a93be65147009719_a659c214c36d43558983f2e2518f9e6e.gtypecache</string>
+		</key>
+		<value>
+			<string>Occurrence.gtypecache</string>
+		</value>
+	</item>
+	<item>
+		<key>
+			<string>NI.G Core.Color Picker_1419b18ca5a442569a83800b0bf40cfd_48a74df3eec24094b70d4d9a4f4037a4.gcompcache</string>
+		</key>
+		<value>
+			<string>NI.G Core.Color Picker.gcompcache</string>
+		</value>
+	</item>
 </SerializableDictionary>
