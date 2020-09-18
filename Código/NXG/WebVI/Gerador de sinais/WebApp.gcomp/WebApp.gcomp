@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<SourceFile Checksum="46159EC533341CA3BB228F07BB9CBDABABD8089DE5FF17DACA4BF44CC5BE22660F43967FE02C336B70C3E84F045418156A60F44ADAE2D950D3F3B9AE66D72557" Timestamp="1D68D389EDC7FAA" xmlns="http://www.ni.com/PlatformFramework">
+<SourceFile Checksum="7A98F613A53EFA795536A645C4C5CA27F64FC0C299AD2B1A7A4F5CE671979A75588C4FCF177D77F0C3FA4269FD1B406F399A31B08D192C4CC7E6A49866D506E6" Timestamp="1D68DEFD8238DE6" xmlns="http://www.ni.com/PlatformFramework">
 	<SourceModelFeatureSet>
 		<ParsableNamespace AssemblyFileVersion="8.1.0.50414" FeatureSetName="GComponentFeatureSet" Name="http://www.ni.com/GComponent.xsd" OldestCompatibleVersion="8.1.0.49152" Version="8.1.0.49152" />
 		<ParsableNamespace AssemblyFileVersion="8.1.0.50414" FeatureSetName="Web Module: WebVI" Name="http://www.ni.com/NationalInstruments.LabVIEW.HtmlVI" OldestCompatibleVersion="8.1.0.49152" Version="8.1.0.49152" />
 		<ParsableNamespace AssemblyFileVersion="8.1.0.50414" FeatureSetName="Editor" Name="http://www.ni.com/PlatformFramework" OldestCompatibleVersion="8.1.0.49152" Version="8.1.0.49152" />
 		<ApplicationVersionInfo Build="8.1.0.50414" Name="LabVIEW NXG" Version="5.0.0" />
 	</SourceModelFeatureSet>
-	<ComponentDefinition AutoIncrementOnBuild="True" Company="NI Brasil" DefaultConfigurationName="Configuration1" Description="Projeto de Gerador de sinais do programa de estágio." Id="1" Product="Gerador de Sinai" RootNamespaceId="14" UserVersion="1.0.0.29" xmlns="http://www.ni.com/GComponent.xsd">
+	<ComponentDefinition AutoIncrementOnBuild="True" Company="NI Brasil" DefaultConfigurationName="Configuration1" Description="Projeto de Gerador de sinais do programa de estágio." Id="1" Product="Gerador de Sinai" RootNamespaceId="14" UserVersion="1.0.0.33" xmlns="http://www.ni.com/GComponent.xsd">
 		<Icon Id="2" ListViewIconCrop="0 0 40 40" xmlns="http://www.ni.com/PlatformFramework">
 			<IconPanel Height="[float]40" Id="3" Left="[float]0" MinHeight="[float]0" MinWidth="[float]0" PanelSizeMode="Resize" Top="[float]0" Width="[float]40">
 				<IconTemplate Height="[float]40" Id="4" Left="[float]0" TemplateName="[string]Blank" Top="[float]0" Width="[float]40" />
