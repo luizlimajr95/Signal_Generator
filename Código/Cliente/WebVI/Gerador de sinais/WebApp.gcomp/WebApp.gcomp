@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<SourceFile Checksum="6DECCE2367E9183E57CDDFFC9BBDA41F78989B65E2A017452971E56BBDDDDF37C01DF15067F1FFF6ADFA016A906705DCF03195B7BD680B7AFFC46BCACD6E7998" Timestamp="1D69839664A5A83" xmlns="http://www.ni.com/PlatformFramework">
+<SourceFile Checksum="4A2C3B8F5936C42C677AD265C9B648F749CD96DA74A4360F298E21CA2E4A29FD52D2392FABB8DD4E9DA4BD422CB1B65BA894E8ECFCF4A24DB98A91E5E1207A9A" Timestamp="1D6B79B69BADF98" xmlns="http://www.ni.com/PlatformFramework">
 	<SourceModelFeatureSet>
 		<ParsableNamespace AssemblyFileVersion="8.1.0.50414" FeatureSetName="GComponentFeatureSet" Name="http://www.ni.com/GComponent.xsd" OldestCompatibleVersion="8.1.0.49152" Version="8.1.0.49152" />
 		<ParsableNamespace AssemblyFileVersion="8.1.0.50414" FeatureSetName="Web Module: WebVI" Name="http://www.ni.com/NationalInstruments.LabVIEW.HtmlVI" OldestCompatibleVersion="8.1.0.49152" Version="8.1.0.49152" />
 		<ParsableNamespace AssemblyFileVersion="8.1.0.50414" FeatureSetName="Editor" Name="http://www.ni.com/PlatformFramework" OldestCompatibleVersion="8.1.0.49152" Version="8.1.0.49152" />
 		<ApplicationVersionInfo Build="8.1.0.50414" Name="LabVIEW NXG" Version="5.0.0" />
 	</SourceModelFeatureSet>
-	<ComponentDefinition AutoIncrementOnBuild="True" Company="NI Brasil" DefaultConfigurationName="Configuration1" Description="Projeto de Gerador de sinais do programa de estágio." Id="1" Product="Gerador de Sinai" RootNamespaceId="14" UserVersion="1.0.0.49" xmlns="http://www.ni.com/GComponent.xsd">
+	<ComponentDefinition AutoIncrementOnBuild="True" Company="NI Brasil" DefaultConfigurationName="Configuration1" Description="Projeto de Gerador de sinais do programa de estágio." Id="1" Product="Gerador de Sinai" RootNamespaceId="14" UserVersion="1.0.0.58" xmlns="http://www.ni.com/GComponent.xsd">
 		<Icon Id="2" ListViewIconCrop="0 0 40 40" xmlns="http://www.ni.com/PlatformFramework">
 			<IconPanel Height="[float]40" Id="3" Left="[float]0" MinHeight="[float]0" MinWidth="[float]0" PanelSizeMode="Resize" Top="[float]0" Width="[float]40">
 				<IconTemplate Height="[float]40" Id="4" Left="[float]0" TemplateName="[string]Blank" Top="[float]0" Width="[float]40" />
@@ -30,6 +30,11 @@
 					<FileReference Bindings=".png" Id="eca2d585d9c047c985226c2ca696074a" ModelDefinitionType="{http://www.ni.com/PlatformFramework}ExternalFile" Name="NI_Teams_background_V1.png" StoragePath="img\NI_Teams_background_V1.png" />
 				</NameScopingEnvoy>
 				<SourceFileReference Id="94e658613aa246ee964818603b92ad8a" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Conversor ENUM para ARRAY.gviweb" OverridingModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.HTMLVirtualInstrument" StoragePath="Conversor ENUM para ARRAY.gviweb" />
+				<SourceFileReference Id="26b3629be7a042378b760cbf4904a1f5" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Posição cursores.gviweb" OverridingModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.HTMLVirtualInstrument" StoragePath="Posição cursores.gviweb" />
+				<SourceFileReference Id="a899d9da81654cc5a873f83e5dd84814" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Posição cursores.gvi" StoragePath="Posição cursores.gvi" />
+				<SourceFileReference Bindings="EnvoyManager" Id="2d79f9a9e7e5462b9be0ef143a5396b0" ModelDefinitionType="NationalInstruments.MocCommon.Modeling.TypeDefinition" Name="Type.gtype" StoragePath="Type.gtype\Type.gtype" />
+				<SourceFileReference Id="ec23d82ff73841ab848f213ed9ee7b89" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Function.gviweb" OverridingModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.HTMLVirtualInstrument" StoragePath="Function.gviweb" />
+				<SourceFileReference Id="79cd2f0a33964db694c491f3724b6f07" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Function_2.gviweb" OverridingModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.HTMLVirtualInstrument" StoragePath="Function_2.gviweb" />
 			</NameScopingEnvoy>
 		</EmbeddedDefinitionReference>
 		<NameScopingEnvoy Id="9" Name="WebApp.gcomp" NameTracksFileName="True">
