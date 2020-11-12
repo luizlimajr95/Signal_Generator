@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<SourceFile Checksum="5DA67D98E48F9CB3E3CAD7FEF6E1527EF00A18F3464700E82284661E2C29EBFCE981AD81A9902EE7340A4F714994A753940203F943CA48A6E0C1D605C3645B73" Timestamp="1D6AD625321020C" xmlns="http://www.ni.com/PlatformFramework">
+<SourceFile Checksum="C4A00914C120B929FCB17AC94225E1DC5617A6EB16CFC4C8BC49C37F7AE382A3530EBDF3FE56E4BBCB975AFB3F911B922910A4829A8422F8676A47DD73831696" Timestamp="1D6B8502BEEFD0D" xmlns="http://www.ni.com/PlatformFramework">
 	<SourceModelFeatureSet>
 		<ParsableNamespace AssemblyFileVersion="8.1.0.50414" FeatureSetName="LabVIEW Controls" Name="http://www.ni.com/Controls.LabVIEW.Design" OldestCompatibleVersion="8.1.0.49152" Version="8.1.0.49152" />
 		<ParsableNamespace AssemblyFileVersion="8.1.0.50414" FeatureSetName="Common language components" Name="http://www.ni.com/MocCommon" OldestCompatibleVersion="8.1.0.49152" Version="8.1.0.49152" />
@@ -7,13 +7,13 @@
 		<ParsableNamespace AssemblyFileVersion="8.1.0.50414" FeatureSetName="Editor" Name="http://www.ni.com/PlatformFramework" OldestCompatibleVersion="8.1.0.49152" Version="8.1.0.49152" />
 		<ApplicationVersionInfo Build="8.1.0.50414" Name="LabVIEW NXG" Version="5.0.0" />
 	</SourceModelFeatureSet>
-	<TypeDefinition DataType="@808b4055d2dc41d492f25a80b0dba726" Id="e339bc3921714ce99933f50f9e19535a" xmlns="http://www.ni.com/MocCommon">
+	<TypeDefinition DataType="@dae7ea8bd19e4a7284eb57aa3bed79de" Id="e339bc3921714ce99933f50f9e19535a" xmlns="http://www.ni.com/MocCommon">
 		<Icon Id="dfbc1ad0cc584603915022959a683ee8" ListViewIconCrop="0 0 40 40" xmlns="http://www.ni.com/PlatformFramework">
 			<IconPanel Height="[float]40" Id="3bd75fd1c2d14b54a59907987c85fe92" Left="[float]0" PanelSizeMode="Resize" Top="[float]0" Width="[float]40">
 				<IconTemplate Height="[float]40" Id="d1f3fea385b94b7b8e5881ddcd6ce915" Left="[float]0" TemplateName="[string]Blank" Top="[float]0" Width="[float]40" />
 			</IconPanel>
 		</Icon>
-		<DataItem DataType="@808b4055d2dc41d492f25a80b0dba726" Id="1afa89c737ec411788710eb32d4878d6" Name="Enum">
+		<DataItem DataType="@dae7ea8bd19e4a7284eb57aa3bed79de" Id="1afa89c737ec411788710eb32d4878d6" Name="Enum">
 			<p.DefaultValue>0</p.DefaultValue>
 		</DataItem>
 	</TypeDefinition>
@@ -28,6 +28,8 @@
 						<EnumSelectorInfo DisplayValue="[string]Simular onda" DisplayValueOverride="[string]" IsEnabled="[bool]True" Value="[ushort]2" ValueType="[Type]UInt16" />
 						<EnumSelectorInfo DisplayValue="[string]Posicionar cursores" DisplayValueOverride="[string]" IsEnabled="[bool]True" Value="[ushort]3" ValueType="[Type]UInt16" />
 						<EnumSelectorInfo DisplayValue="[string]Editar onda" DisplayValueOverride="[string]" IsEnabled="[bool]True" Value="[ushort]4" ValueType="[Type]UInt16" />
+						<EnumSelectorInfo DisplayValue="[string]Salvar / Carregar onda" DisplayValueOverride="[string]" IsEnabled="[bool]True" Value="[ushort]5" ValueType="[Type]UInt16" />
+						<EnumSelectorInfo DisplayValue="[string]Plotar" DisplayValueOverride="[string]" IsEnabled="[bool]True" Value="[ushort]6" ValueType="[Type]UInt16" />
 					</EnumSelector>
 					<Label Height="[float]16" Id="6e86ed2a2fba48a989895b0b81fa0a7c" LabelOwner="[UIModel]ac9a3923357e4857bea74f160cf13779" Left="[float]451" Text="[string]Enum" Top="[float]222" Width="[float]30" xmlns="http://www.ni.com/PanelCommon" />
 				</ControlDefinition>
@@ -35,7 +37,7 @@
 		</NameScopingEnvoy>
 	</EnvoyManagerFile>
 	<DataTypeReferenceTable xmlns="http://www.ni.com/PlatformFramework">
-		<p.TypeReference TypeId="808b4055d2dc41d492f25a80b0dba726">
+		<p.TypeReference TypeId="dae7ea8bd19e4a7284eb57aa3bed79de">
 			<Enumeration>
 				<Members>
 					<EnumerationMember Value="0" Name="Inicialização" />
@@ -43,6 +45,8 @@
 					<EnumerationMember Value="2" Name="Simular onda" />
 					<EnumerationMember Value="3" Name="Posicionar cursores" />
 					<EnumerationMember Value="4" Name="Editar onda" />
+					<EnumerationMember Value="5" Name="Salvar / Carregar onda" />
+					<EnumerationMember Value="6" Name="Plotar" />
 				</Members>
 				<DataType>UInt16</DataType>
 			</Enumeration>
