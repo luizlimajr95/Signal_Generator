@@ -75,21 +75,9 @@
 					<Property Name="ws.useHeaders" Type="Bool">true</Property>
 					<Property Name="ws.useStandardURL" Type="Bool">true</Property>
 				</Item>
-				<Item Name="Salvar_Carregar.vi" Type="VI" URL="../../../../../Desktop/Salvar_Carregar.vi">
-					<Property Name="ws.buffered" Type="Bool">true</Property>
-					<Property Name="ws.includeNameInURL" Type="Bool">true</Property>
-					<Property Name="ws.keepInMemory" Type="Bool">true</Property>
-					<Property Name="ws.loadAtStartup" Type="Bool">true</Property>
+				<Item Name="Salvar_Carregar.vi" Type="VI" URL="../WebService&apos;s/Salvar_Carregar.vi">
 					<Property Name="ws.method" Type="Int">1</Property>
-					<Property Name="ws.outputFormat" Type="Int">4</Property>
-					<Property Name="ws.outputType" Type="Int">1</Property>
-					<Property Name="ws.permissions" Type="Str"></Property>
-					<Property Name="ws.requireAPIKey" Type="Bool">false</Property>
-					<Property Name="ws.requiredPrivilege" Type="Str"></Property>
 					<Property Name="ws.type" Type="Int">1</Property>
-					<Property Name="ws.uri" Type="Str"></Property>
-					<Property Name="ws.useHeaders" Type="Bool">true</Property>
-					<Property Name="ws.useStandardURL" Type="Bool">true</Property>
 				</Item>
 			</Item>
 		</Item>
